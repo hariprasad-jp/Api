@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@example.com",
+      "age": 24,
+      "premiumMember": true
+    },
+    {
+      "id": 2,
+      "name": "Kiran",
+      "email": "kiran@example.com",
+      "age": 32,
+      "premiumMember": false
+    },
+    {
+      "id": 3,
+      "name": "Aysha",
+      "email": "aysha@example.com",
+      "age": 35,
+      "premiumMember": true
+    }
+  ]
+}
